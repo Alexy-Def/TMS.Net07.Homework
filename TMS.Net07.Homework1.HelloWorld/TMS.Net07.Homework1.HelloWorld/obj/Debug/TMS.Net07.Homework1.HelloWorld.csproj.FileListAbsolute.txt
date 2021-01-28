@@ -4,3 +4,9 @@ C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework1\TMS.Net07.Homework1.HelloWorld\
 C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework1\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\obj\Debug\TMS.Net07.Homework1.HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework1\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\obj\Debug\TMS.Net07.Homework1.HelloWorld.exe
 C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework1\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\obj\Debug\TMS.Net07.Homework1.HelloWorld.pdb
+E:\2701\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\bin\Debug\TMS.Net07.Homework1.HelloWorld.exe.config
+E:\2701\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\bin\Debug\TMS.Net07.Homework1.HelloWorld.exe
+E:\2701\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\bin\Debug\TMS.Net07.Homework1.HelloWorld.pdb
+E:\2701\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\obj\Debug\TMS.Net07.Homework1.HelloWorld.csproj.CoreCompileInputs.cache
+E:\2701\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\obj\Debug\TMS.Net07.Homework1.HelloWorld.exe
+E:\2701\TMS.Net07.Homework1.HelloWorld\TMS.Net07.Homework1.HelloWorld\obj\Debug\TMS.Net07.Homework1.HelloWorld.pdb

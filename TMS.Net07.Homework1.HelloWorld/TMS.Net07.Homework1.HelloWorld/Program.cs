@@ -10,35 +10,40 @@ namespace TMS.Net07.Homework1.HelloWorld
     {
         static void Main(string[] args)
         {
-            begin:
             Console.Write("Введите, пожалуйста, какое-нибудь число: ");
             string anyNumber = Console.ReadLine();
             Console.WriteLine();
             bool validation = int.TryParse(anyNumber, out int parseNumber);
 
-            if (validation == true)
+            while (validation == false || validation == true)
             {
-                if (parseNumber == 0)
+                if (validation == true)
                 {
-                    Console.ForegroundColor = ConsoleColor.DarkCyan;
-                    Console.Write("Из-за числа '0' программа вынуждена сама закрыться через несколько секунд...");
-                    Thread.Sleep(3000);
-                    Environment.Exit(0);
+                    if (parseNumber == 0)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkCyan;
+                        Console.Write("Из-за числа '0' программа вынуждена сама закрыться через несколько секунд...");
+                        Thread.Sleep(3000);
+                        Environment.Exit(0);
+                    }
+
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("Отлично! Введенное Вами число является действительным. И оно равно {0}", parseNumber);
+                    Console.ResetColor();
+                }
+                else
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("К сожалению, скорее всего, Вы ввели не число. Повторите попытку.");
+                    Console.ResetColor();
                 }
 
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Отлично! Введенное Вами число является действительным. И оно равно {0}", parseNumber);
-                Console.ResetColor();
+                Console.WriteLine();
+                Console.Write("Введите, пожалуйста, какое-нибудь число: ");
+                anyNumber = Console.ReadLine();
+                Console.WriteLine();
+                validation = int.TryParse(anyNumber, out parseNumber);
             }
-            else
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("К сожалению, скорее всего, Вы ввели не число.");
-                Console.ResetColor();
-            }
-
-            Console.WriteLine();
-            goto begin;
         }
     }
 }
