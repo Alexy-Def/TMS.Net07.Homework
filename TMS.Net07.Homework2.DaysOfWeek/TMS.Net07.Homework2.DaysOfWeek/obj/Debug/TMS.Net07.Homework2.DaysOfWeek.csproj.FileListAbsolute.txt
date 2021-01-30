@@ -1,0 +1,7 @@
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\bin\Debug\TMS.Net07.Homework2.DaysOfWeek.exe.config
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\bin\Debug\TMS.Net07.Homework2.DaysOfWeek.exe
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\bin\Debug\TMS.Net07.Homework2.DaysOfWeek.pdb
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\obj\Debug\TMS.Net07.Homework2.DaysOfWeek.csprojAssemblyReference.cache
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\obj\Debug\TMS.Net07.Homework2.DaysOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\obj\Debug\TMS.Net07.Homework2.DaysOfWeek.exe
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Homework\TMS.Net07.Homework2.DaysOfWeek\TMS.Net07.Homework2.DaysOfWeek\obj\Debug\TMS.Net07.Homework2.DaysOfWeek.pdb
