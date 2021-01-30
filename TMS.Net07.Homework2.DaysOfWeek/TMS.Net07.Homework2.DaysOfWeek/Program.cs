@@ -9,12 +9,15 @@ namespace TMS.Net07.Homework2.DaysOfWeek
         {
             string wishDate;
             DateTime parseDate;
+            DateTime maxDate = DateTime.Parse("31.12.2999");
+
 
             while (true)
             {
                 Console.Write("Input wish date: ");
 
                 wishDate = Console.ReadLine();
+                parseDate = DateTime.Parse(wishDate);
 
                 if (wishDate.ToLower() == "exit")
                 {
@@ -23,14 +26,19 @@ namespace TMS.Net07.Homework2.DaysOfWeek
                     Thread.Sleep(1500);
                     Environment.Exit(0);
                 }
-
-                parseDate = DateTime.Parse(wishDate);
-
-                Console.Write("Day of week: ");
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine(parseDate.DayOfWeek);                
-                Console.ResetColor();
-                Console.WriteLine();
+                else if (parseDate <= maxDate)
+                {
+                    Console.Write("Day of week: ");
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine(parseDate.DayOfWeek);
+                    Console.ResetColor();
+                    Console.WriteLine();
+                }
+                else
+                {
+                    Console.WriteLine("Wrong date! Repeat, please...");
+                    Console.WriteLine();
+                }
             }
         }
     }
