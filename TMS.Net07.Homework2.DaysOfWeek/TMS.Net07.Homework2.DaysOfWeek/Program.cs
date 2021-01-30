@@ -17,7 +17,6 @@ namespace TMS.Net07.Homework2.DaysOfWeek
                 Console.Write("Input wish date: ");
 
                 wishDate = Console.ReadLine();
-                parseDate = DateTime.Parse(wishDate);
 
                 if (wishDate.ToLower() == "exit")
                 {
@@ -26,7 +25,10 @@ namespace TMS.Net07.Homework2.DaysOfWeek
                     Thread.Sleep(1500);
                     Environment.Exit(0);
                 }
-                else if (parseDate <= maxDate)
+
+                parseDate = DateTime.Parse(wishDate);
+                                
+                if (parseDate <= maxDate)
                 {
                     Console.Write("Day of week: ");
                     Console.ForegroundColor = ConsoleColor.Yellow;
