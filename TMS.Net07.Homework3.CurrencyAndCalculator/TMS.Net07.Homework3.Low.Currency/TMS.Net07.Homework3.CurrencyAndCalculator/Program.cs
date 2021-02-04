@@ -10,20 +10,20 @@ namespace TMS.Net07.Homework3.CurrencyAndCalculator
     {
         static void Main(string[] args)
         {
-            const float BuyUsdToByn = 2.6250f;
-            const float SellUsdToByn = 2.6310f;
-            const float BuyUsdToEur = 0.8252f;
-            const float SellUsdToEur = 0.8315f;
-            const float BuyUsdToRub = 75.5051f;
-            const float SellUsdToRub = 76.9710f;
+            const decimal BuyUsdToByn = 2.6250m;
+            const decimal SellUsdToByn = 2.6310m;
+            const decimal BuyUsdToEur = 0.8252m;
+            const decimal SellUsdToEur = 0.8315m;
+            const decimal BuyUsdToRub = 75.5051m;
+            const decimal SellUsdToRub = 76.9710m;
 
-            const float BuyEurToByn = 3.1650f;
-            const float SellEurToByn = 3.1680f;
-            const float BuyEurToRub = 91.4940f;
-            const float SellEurToRub = 94.6320f;
+            const decimal BuyEurToByn = 3.1650m;
+            const decimal SellEurToByn = 3.1680m;
+            const decimal BuyEurToRub = 91.4940m;
+            const decimal SellEurToRub = 94.6320m;
 
-            const float BuyBynToRub = 28.8243f;
-            const float SellBynToRub = 29.9132f;
+            const decimal BuyBynToRub = 28.8243m;
+            const decimal SellBynToRub = 29.9132m;
 
             while (true)
             {
@@ -37,13 +37,13 @@ namespace TMS.Net07.Homework3.CurrencyAndCalculator
                 string buyOrSell = Console.ReadLine().ToLower();
 
                 Console.Write("Input amount: ");
-                bool isParseAmount = float.TryParse(Console.ReadLine(), out float currencyAmount);
+                bool isParseAmount = decimal.TryParse(Console.ReadLine(), out decimal currencyAmount);
 
                 string incorrectlyInputCurrencyFrom = " ";
                 string incorrectlyInputCurrencyTo = " ";
                 string incorrectlyInputBuyOrSell = " ";
                 bool isRightInputCurrency = true;
-                float convertedAmount = 0;
+                decimal convertedAmount = 0;
 
                 if (isParseAmount)
                 {
@@ -276,7 +276,12 @@ namespace TMS.Net07.Homework3.CurrencyAndCalculator
                 Console.WriteLine();
                 Console.Write("Exit or Not: ");
                 string exit = Console.ReadLine().ToLower();
-                if (exit == "exit") return;
+                
+                if (exit == "exit")
+                {
+                    return;
+                }
+
                 Console.Clear();
             }
         }
