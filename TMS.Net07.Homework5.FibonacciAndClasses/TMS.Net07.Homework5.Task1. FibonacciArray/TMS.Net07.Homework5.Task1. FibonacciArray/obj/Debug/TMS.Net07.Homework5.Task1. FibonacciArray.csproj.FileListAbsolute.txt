@@ -1,0 +1,6 @@
+C:\Users\JOKER\source\repos\TMS.Net07.Homework5.Task1. FibonacciArray\TMS.Net07.Homework5.Task1. FibonacciArray\bin\Debug\TMS.Net07.Homework5.Task1.FibonacciArray.exe.config
+C:\Users\JOKER\source\repos\TMS.Net07.Homework5.Task1. FibonacciArray\TMS.Net07.Homework5.Task1. FibonacciArray\bin\Debug\TMS.Net07.Homework5.Task1.FibonacciArray.exe
+C:\Users\JOKER\source\repos\TMS.Net07.Homework5.Task1. FibonacciArray\TMS.Net07.Homework5.Task1. FibonacciArray\bin\Debug\TMS.Net07.Homework5.Task1.FibonacciArray.pdb
+C:\Users\JOKER\source\repos\TMS.Net07.Homework5.Task1. FibonacciArray\TMS.Net07.Homework5.Task1. FibonacciArray\obj\Debug\TMS.Net07.Homework5.Task1. FibonacciArray.csproj.CoreCompileInputs.cache
+C:\Users\JOKER\source\repos\TMS.Net07.Homework5.Task1. FibonacciArray\TMS.Net07.Homework5.Task1. FibonacciArray\obj\Debug\TMS.Net07.Homework5.Task1.FibonacciArray.exe
+C:\Users\JOKER\source\repos\TMS.Net07.Homework5.Task1. FibonacciArray\TMS.Net07.Homework5.Task1. FibonacciArray\obj\Debug\TMS.Net07.Homework5.Task1.FibonacciArray.pdb
