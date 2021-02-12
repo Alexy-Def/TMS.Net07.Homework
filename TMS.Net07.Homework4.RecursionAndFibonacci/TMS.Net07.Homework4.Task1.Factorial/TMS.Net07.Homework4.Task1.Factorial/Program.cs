@@ -16,7 +16,7 @@ namespace TMS.Net07.Homework4.Task1.Factorial
                 {
                     isTryInputNumber = ulong.TryParse(Console.ReadLine(), out inputNumber);
 
-                    if (isTryInputNumber == true)
+                    if (isTryInputNumber)
                     {
                         if (inputNumber < 0)
                         {
@@ -30,7 +30,7 @@ namespace TMS.Net07.Homework4.Task1.Factorial
                     }
 
                 }
-                while (isTryInputNumber == false);
+                while (!isTryInputNumber);
 
                 Console.WriteLine($"Result: {CalculateFactorial(inputNumber)}");
 
