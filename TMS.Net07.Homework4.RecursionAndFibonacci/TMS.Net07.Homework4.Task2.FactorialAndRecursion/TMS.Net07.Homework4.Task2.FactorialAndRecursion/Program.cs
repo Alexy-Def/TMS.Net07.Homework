@@ -20,7 +20,7 @@ namespace TMS.Net07.Homework4.Task2.FactorialAndRecursion
                 {
                     isTryInputNumber = ulong.TryParse(Console.ReadLine(), out inputNumber);
 
-                    if (isTryInputNumber == true)
+                    if (isTryInputNumber)
                     {
                         if (inputNumber < 0)
                         {
@@ -34,7 +34,7 @@ namespace TMS.Net07.Homework4.Task2.FactorialAndRecursion
                     }
 
                 }
-                while (isTryInputNumber == false);
+                while (!isTryInputNumber);
 
                 Console.WriteLine($"Result: {CalculateFactorialWithRecursion(inputNumber)}");
 
