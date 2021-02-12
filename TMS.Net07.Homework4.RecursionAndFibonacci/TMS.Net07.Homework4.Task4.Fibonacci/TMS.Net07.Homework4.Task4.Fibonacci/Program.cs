@@ -16,12 +16,12 @@ namespace TMS.Net07.Homework4.Task4.Fibonacci
                 {
                     isTryInputNumber = long.TryParse(Console.ReadLine(), out inputNumber);
 
-                    if (isTryInputNumber == false)
+                    if (!isTryInputNumber)
                     {
                         Console.Write("Incorrect input. Repeat, please: ");
                     }
                 }
-                while (isTryInputNumber == false);
+                while (!isTryInputNumber);
 
                 Console.WriteLine($"Result: {CalculateFibonacci(inputNumber)}");
 
