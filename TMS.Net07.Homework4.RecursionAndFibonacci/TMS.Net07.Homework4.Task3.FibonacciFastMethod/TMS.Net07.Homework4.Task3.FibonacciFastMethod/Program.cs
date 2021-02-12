@@ -16,12 +16,12 @@ namespace TMS.Net07.Homework4.Task3.FibonacciFastMethod
                 {
                     isTryInputNumber = long.TryParse(Console.ReadLine(), out inputNumber);
 
-                    if (isTryInputNumber == false)
+                    if (!isTryInputNumber)
                     {
                         Console.Write("Incorrect input. Repeat, please: ");
                     }
                 }
-                while (isTryInputNumber == false);
+                while (!isTryInputNumber);
 
                 bool isNumberBelowZero = false;
 
