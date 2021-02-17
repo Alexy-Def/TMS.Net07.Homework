@@ -1,0 +1,6 @@
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Для решения задач\TMS.Net07.Homework4.RecursionAndFibonacci\TMS.Net07.Homework4.Task1.Factorial\TMS.Net07.Homework4.Task1.Factorial\bin\Debug\TMS.Net07.Homework4.Task1.Factorial.exe.config
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Для решения задач\TMS.Net07.Homework4.RecursionAndFibonacci\TMS.Net07.Homework4.Task1.Factorial\TMS.Net07.Homework4.Task1.Factorial\bin\Debug\TMS.Net07.Homework4.Task1.Factorial.exe
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Для решения задач\TMS.Net07.Homework4.RecursionAndFibonacci\TMS.Net07.Homework4.Task1.Factorial\TMS.Net07.Homework4.Task1.Factorial\bin\Debug\TMS.Net07.Homework4.Task1.Factorial.pdb
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Для решения задач\TMS.Net07.Homework4.RecursionAndFibonacci\TMS.Net07.Homework4.Task1.Factorial\TMS.Net07.Homework4.Task1.Factorial\obj\Debug\TMS.Net07.Homework4.Task1.Factorial.csproj.CoreCompileInputs.cache
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Для решения задач\TMS.Net07.Homework4.RecursionAndFibonacci\TMS.Net07.Homework4.Task1.Factorial\TMS.Net07.Homework4.Task1.Factorial\obj\Debug\TMS.Net07.Homework4.Task1.Factorial.exe
+C:\Users\JOKER\Desktop\PMVS\TMS-school\Для решения задач\TMS.Net07.Homework4.RecursionAndFibonacci\TMS.Net07.Homework4.Task1.Factorial\TMS.Net07.Homework4.Task1.Factorial\obj\Debug\TMS.Net07.Homework4.Task1.Factorial.pdb
