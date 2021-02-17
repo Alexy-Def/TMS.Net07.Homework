@@ -1,0 +1,7 @@
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\bin\Debug\TMS.Net07.Homework3.High.TextCalculator.exe.config
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\bin\Debug\TMS.Net07.Homework3.High.TextCalculator.exe
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\bin\Debug\TMS.Net07.Homework3.High.TextCalculator.pdb
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\obj\Debug\TMS.Net07.Homework3.High.TextCalculator.csprojAssemblyReference.cache
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\obj\Debug\TMS.Net07.Homework3.High.TextCalculator.csproj.CoreCompileInputs.cache
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\obj\Debug\TMS.Net07.Homework3.High.TextCalculator.exe
+C:\Users\JOKER\source\repos\TMS.Net07.Homework3.High.TextCalculator\TMS.Net07.Homework3.High.TextCalculator\obj\Debug\TMS.Net07.Homework3.High.TextCalculator.pdb
