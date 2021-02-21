@@ -180,41 +180,23 @@ namespace TextCalculator
                     Console.WriteLine("Result: {0}", result);
                     break;
                 case "+":
-                    result = argBeforeMathOperDouble + argAfterMathOperDouble;
-                    Console.WriteLine("Result: {0}", result);
-                    break;
                 case "plus":
                     result = argBeforeMathOperDouble + argAfterMathOperDouble;
                     Console.WriteLine("Result: {0}", result);
                     break;
                 case "-":
-                    result = argBeforeMathOperDouble - argAfterMathOperDouble;
-                    Console.WriteLine("Result: {0}", result);
-                    break;
                 case "minus":
                     result = argBeforeMathOperDouble - argAfterMathOperDouble;
                     Console.WriteLine("Result: {0}", result);
                     break;
                 case "*":
-                    result = argBeforeMathOperDouble * argAfterMathOperDouble;
-                    Console.WriteLine("Result: {0}", result);
-                    break;
                 case "multiply":
-                    result = argBeforeMathOperDouble * argAfterMathOperDouble;
-                    Console.WriteLine("Result: {0}", result);
-                    break;
                 case "x":
-                    result = argBeforeMathOperDouble * argAfterMathOperDouble;
-                    Console.WriteLine("Result: {0}", result);
-                    break;
                 case "X":
                     result = argBeforeMathOperDouble * argAfterMathOperDouble;
                     Console.WriteLine("Result: {0}", result);
                     break;
                 case "/":
-                    result = argBeforeMathOperDouble / argAfterMathOperDouble;
-                    Console.WriteLine("Result: {0}", result);
-                    break;
                 case "divide":
                     result = argBeforeMathOperDouble / argAfterMathOperDouble;
                     Console.WriteLine("Result: {0}", result);
